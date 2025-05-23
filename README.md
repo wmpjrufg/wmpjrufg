@@ -4,7 +4,8 @@ Olá pessoal, eu sou o professor Wanderlei Malaquias Pereira Junior. Possuo grad
 
 ## 📬 Contato  
 📧 **E-mail:** `wanderlei_junior@ufcat.edu.br`  
-📞 **Telefone:** _+55 (64) 9 8123-6314_ [WhatsApp](https://wa.me/5564981236314?text=Olá,%20tudo%20bem%3F)  
+📞 **Telefone:** +55 (64) 9 8123-6314  
+🤖 **[WhatsApp](https://wa.me/5564981236314?text=Olá,%20tudo%20bem%3F)**  
 🔗 **[Currículo Lattes](http://lattes.cnpq.br/2268506213083114)**  
 
 ## 📚 **Minhas Disciplinas**  
