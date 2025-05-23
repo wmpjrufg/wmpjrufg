@@ -15,11 +15,12 @@ Olá pessoal, eu sou o professor Wanderlei Malaquias Pereira Junior. Possuo grad
 - 🎯 Otimização Estrutural  
 
 ## 🔍 **Interesses de Pesquisa**    
-- 🧮 **Otimização Estrutural**  
-- 🛡️ **Confiabilidade Estrutural**    
-- 🌐 **IoT em Engenharia Civil**   
-- ⚡ **Métodos Numéricos**  
-- 🏗️ **Materiais Avançados**   
+- 🧮 Otimização Estrutural  
+- 🛡️ Confiabilidade Estrutural    
+- 🌐 _IoT_     
+- ⚡ Métodos Numéricos    
+- 🏗️ Concreto Armado  
+- 👁️‍🗨️ Visão computacional  
 
 ## 🛠️ **Softwares Abertos à Comunidade (COM+)**  
 *(Em breve mais detalhes!)*  
