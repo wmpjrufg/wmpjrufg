@@ -12,7 +12,7 @@ Olá pessoal, eu sou o professor Wanderlei Malaquias Pereira Junior. Possuo grad
 - 🏛️ Estruturas de Concreto Armado 1
 - 🏛️ Estruturas de Concreto Armado 2 
 - 📐 Projetos Estruturais  
-- 💻 Computação Científica  
+- 💻 Métodos numéricos 
 - 🎯 Otimização Estrutural  
 
 ## 🔍 **Interesses de Pesquisa**    
