@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou o **Prof. Wanderlei Malaquias Pereira Junior**  
-
-*Professor e Pesquisador* na **Universidade Federal de Catalão (UFCAT)**  
----
+Olá pessoal, eu sou o professor Wanderlei Malaquias Pereira Junior. Possuo graduação em Engenharia Civil pela Universidade Estadual de Goiás (2010), mestrado em Geotecnia, Estruturas e Construção Civil (2014) e doutorado em Ciências Exatas e Tecnológicas (2020) pela Universidade Federal de Goiás. Realizo pós-doutorado na University of Minnesota (EUA, 2025-atual). Sou professor adjunto na Universidade Federal de Catalão (UFCAT), com especialização em Estruturas de Concreto Armado (UFG, 2020) e Inteligência Artifical (IFG, 2024). Atuo principalmente nas áreas de: otimização estrutural, inteligência artificial, confiabilidade, visão computacional, análise de risco em projetos e educação 4.0. Participo ativamente como professor e orientador em nível de mestrado e doutorado dos programas de pós-graduação em Engenharia de Materiais e Engenharia Civil da UFCAT.
 
 ## 📬 Contato  
 📧 **E-mail:** `wanderlei_junior@ufcat.edu.br`  
