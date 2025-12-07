@@ -24,4 +24,4 @@ Olá pessoal, eu sou o professor Wanderlei Malaquias Pereira Junior. Possuo grad
 - 👁️‍🗨️ Visão computacional  
 
 ## 🛠️ **Softwares Abertos à Comunidade (COM+)**  
-*(Em breve mais detalhes!)*  
+- **[Coretec Tools](https://www.coretectools.com.br/)**  
